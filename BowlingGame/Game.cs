@@ -8,7 +8,7 @@ namespace BowlingGame
 
         }
 
-        public object CalculateTotalScore()
+        public int CalculateTotalScore()
         {
             return 75;
         }
